@@ -52,6 +52,7 @@ IP007
 * Open the product page
 * Click on the bold "csatlakoz most!" button
 * A pop-up will appear with the subcription information
+* And a submit button
 * Close pop-up
 
 IP008
@@ -60,6 +61,7 @@ IP008
 * Open the product page
 * Add "one" year guarantee
 * The related text will be displayed on the right side of the price
+* And a x close button on the top right corner
 
 IP009
 ## Extended guarantee pop-up will displayed. 
@@ -67,6 +69,7 @@ IP009
 * Open the product page
 * Click on Green basket
 * Pop-up will displayed 
+* And the extended guarantee card with the radio buttons will be displayed
 
 IP010
 ## Login pop-up will be displayed using the "Elmentem" button. 
@@ -100,6 +103,9 @@ IP013
 * Adding one product in the basket
 * Click on the chart
 * A chart content side bar will be shown up in the right side with the selected product
+* The checkout button will displayed
+* The "összes törlése" button will shown
+* The "Teljes kosár" button will shown
 
 IP014
 ## Loan pop-up will be shown 
@@ -115,12 +121,16 @@ IP015
 * We are click on the main picture of the product
 * A large pop-up carousel will appear with the product large pictures
 
+
 IP016
 ## Product price notification pop-up will be shown
 * Open "ipon.hu" with headless mode "false"
 * Open the product page
 * We click on the Értesítés kérek button   
-* A pop-up will be displayed with email input field  
+* A pop-up will be displayed with email input field
+* And price input field 
+* And a "Értesítés kérek" submit button 
+* And an x close button in the top right corner of the pop-up
 
 IP017
 ## Product price graphic chart information is displayed
@@ -142,12 +152,15 @@ IP019
 * Open the product page
 * We scroll down
 * A product header will drop down
+* And the product will be displayed
+* And the product page section titles will be displayed
 
 IP020
 ## Using the "Vissza az oldal tetejére" button
 * Open "ipon.hu" with headless mode "false"
 * Open the product page
 * Scroll down and click the button
+* The page will scroll to the top
 
 
 
